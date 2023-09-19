@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_garden=self.webpackChunkgatsby_garden||[]).push([[501],{5791:function(e,n,t){t.r(n);var a=t(7294),i=t(611);n.default=()=>a.createElement(i.Z,{pageTitle:"Contact us",pageHeading:"Contact"},a.createElement("a",{href:"https://www.linkedin.com/in/irenebosque/"}," My linkedin "))}}]);
+//# sourceMappingURL=component---src-pages-contact-js-54999c56ec21f829ed8a.js.map
